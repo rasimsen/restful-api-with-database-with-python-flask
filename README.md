@@ -1,6 +1,6 @@
-# REST APIs with Flask and Python
+# REST APIs with Flask, Python and SQLite Database
 
-It has a sample implementation for GET, PUT, POSt, DELETE methods, and also has a simple demonstration for JTW for the authentication.
+It has a sample implementation for GET, PUT, POST, DELETE methods, and also has a simple demonstration for JTW for the authentication. It uses SQLite for the CRUD operations. 
 
 ## some usefull commands to create this kind of project:
 
